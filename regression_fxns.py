@@ -18,7 +18,7 @@ def calc_corrcoef_from_standardized_input(array1,array2):
     OUTPUT: Pearson correlation coefficient'''
 
 def get_regression_parameters(array1, array2):
-    '''Calculates regression parameteres from two input arrays
+    '''Calculates regression parameters from two input arrays
     INPUT: array1, array2: two data arrays
     OUTPUT: regression_array, length 2: regression_array[0] is slope and regression_array[1] is intercept'''
 
